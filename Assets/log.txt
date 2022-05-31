@@ -1,0 +1,38 @@
+There are total 5 supported mouse buttons
+Allegro5 initialized
+Game begin
+resized image: main-bg.jpg
+resized image: settings.png
+resized image: settings2.png
+resized image: char_select.jpg
+resized image: char_select2.jpg
+resized image: exit.png
+resized image: exit2.png
+resized image: checkbox.png
+resized image: checkbox2.png
+resized image: button.png
+resized image: button2.png
+resized image: howtoplay.png
+resized image: howtoplay2.png
+resized image: start-bg.jpg
+resized image: white.png
+resized image: red.png
+resized image: blue.png
+resized image: alien.png
+resized image: explosion.png
+resized image: hitmarker.png
+resized image: ult3.png
+resized image: square.png
+Change scene from 0 to 1
+Game initialized
+Game start event loop
+Key with keycode 67 down
+Change scene from 1 to 2
+stop audio (bgm)
+Key with keycode 67 up
+Key with keycode 84 down
+Key with keycode 84 up
+Mouse button 1 down at (762, 7)
+Mouse button 1 up at (762, 7)
+Window close button clicked
+Game end
